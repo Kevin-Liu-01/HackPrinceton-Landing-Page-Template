@@ -1,7 +1,5 @@
 # HackPrinceton Event Landing Page Template
 
-![HackPrinceton Logo](/public/images/logos/hackprinceton_logo_primary.png)
-
 This is a responsive, customizable landing page template for HackPrinceton hackathons, built with [Next.js](https://nextjs.org), [Tailwind CSS](https://tailwindcss.com), and [Radix UI](https://www.radix-ui.com/).
 
 The template is pre-configured with a gray dark mode theme and includes several common sections:
