@@ -16,14 +16,30 @@ import { Flex, Box } from "@radix-ui/themes";
 import { MouseIcon } from "lucide-react";
 
 const SiteURLS = [
-  { name: "Collaborate", color: "bg-red-100", link: "/images/promo1.jpg" },
-  { name: "And", color: "bg-red-200", link: "/images/promo2.jpg" },
-  { name: "Build", color: "bg-red-300", link: "/images/promo3.jpg" },
-  { name: "Out", color: "bg-[#f78f8f]", link: "/images/promo4.jpg" },
-  { name: "Brilliant", color: "bg-red-400", link: "/images/promo5.jpg" },
-  { name: "Innovative", color: "bg-red-500", link: "/images/promo6.jpg" },
-  { name: "Impactful", color: "bg-red-600", link: "/images/promo7.jpg" },
-  { name: "Ideas", color: "bg-red-700", link: "/images/promo8.webp" },
+  {
+    name: "Collaborate",
+    color: "bg-red-100",
+    link: "/images/carousel/promo1.jpg",
+  },
+  { name: "And", color: "bg-red-200", link: "/images/carousel/promo2.jpg" },
+  { name: "Build", color: "bg-red-300", link: "/images/carousel/promo3.jpg" },
+  { name: "Out", color: "bg-[#f78f8f]", link: "/images/carousel/promo4.jpg" },
+  {
+    name: "Brilliant",
+    color: "bg-red-400",
+    link: "/images/carousel/promo5.jpg",
+  },
+  {
+    name: "Innovative",
+    color: "bg-red-500",
+    link: "/images/carousel/promo6.jpg",
+  },
+  {
+    name: "Impactful",
+    color: "bg-red-600",
+    link: "/images/carousel/promo7.jpg",
+  },
+  { name: "Ideas", color: "bg-red-700", link: "/images/carousel/promo8.webp" },
 ];
 
 const CarouselComponent = () => {

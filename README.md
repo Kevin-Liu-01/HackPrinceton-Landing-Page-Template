@@ -1,6 +1,6 @@
 # HackPrinceton Event Landing Page Template
 
-![HackPrinceton Logo](/images/logos/hackprinceton_logo_primary.png)
+![HackPrinceton Logo](/public/images/logos/hackprinceton_logo_primary.png)
 
 This is a responsive, customizable landing page template for HackPrinceton hackathons, built with [Next.js](https://nextjs.org), [Tailwind CSS](https://tailwindcss.com), and [Radix UI](https://www.radix-ui.com/).
 
@@ -85,7 +85,3 @@ This template is designed to be quickly customized for your event.
 The easiest way to deploy this Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-```
-
-```
