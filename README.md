@@ -1,4 +1,3 @@
-````markdown
 # HackPrinceton Event Landing Page Template
 
 ![HackPrinceton Logo](/images/logos/hackprinceton_logo_primary.png)
@@ -42,7 +41,6 @@ pnpm dev
 # or
 bun dev
 ```
-````
 
 Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) with your browser to see the result.
 
